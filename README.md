@@ -1,4 +1,9 @@
-JavaScript library to copy and paste to clipboard.
+Clipboard
+=========
+
+###### [Contributing](CONTRIBUTING)
+
+> JavaScript library to copy and paste to clipboard.
 
 Methods
 -------
