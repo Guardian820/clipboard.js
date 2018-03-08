@@ -1,12 +1,10 @@
-Clipboard
-=========
+# Clipboard
 
 ###### [Contributing](CONTRIBUTING)
 
 > [JavaScript][] library to copy and paste to clipboard.
 
-Methods
--------
+## Methods
 
 - `Clipboard`
   - `copy` `text`
