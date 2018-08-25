@@ -2,7 +2,7 @@
 
 ###### [Contributing](CONTRIBUTING)
 
-> [JavaScript][] library to copy and paste to clipboard.
+> [JavaScript] library to copy and paste to clipboard.
 
 ## Methods
 
